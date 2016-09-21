@@ -8,7 +8,7 @@ public class HomeController {
 
 	@RequestMapping("/home")
 	public String home(){
-		
+		// added by repository direct to test
 		return "index";
 		
 	}
